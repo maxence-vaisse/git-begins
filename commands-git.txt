@@ -1,1 +1,2 @@
 "Pour add il faut utiliser la commande git add, pour commit il faut utiliser la commande git commit -m et pour push il faut utiliser la commande git push origine main. Et pour pull il faut utiliser la commande git-pull" 
+Pour cr‚eune branche il faut utiliser la commande git branch et pour se d‚placer dans la branche on utilise git checkout 
